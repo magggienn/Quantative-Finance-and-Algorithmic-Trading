@@ -1,1 +1,1 @@
-# Quantative Finance and Algorithmic Trading
+# QFAT - Assignment D
